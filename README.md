@@ -10,7 +10,7 @@ The FreeAPI project is an innovative and community-driven initiative aimed at pr
 
 The project focuses on delivering a wide range of APIs that cater to various domains and functionalities, enabling developers to seamlessly integrate these APIs into their applications.
 
-Key highlights of the FreeAPI project include:
+Key highlights of the FreeAPI project 
 
 1. **Accessibility:** The FreeAPI project is committed to eliminating barriers by providing free access to its collection of APIs.
    Developers can leverage these APIs without any cost limitations, allowing them to experiment, learn, and build innovative applications.
